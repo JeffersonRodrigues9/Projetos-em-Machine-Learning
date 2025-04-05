@@ -8,10 +8,5 @@ Cada projeto aqui representa uma experiência diferente, onde fui capaz de testa
 
 Dentro deste repositório, existem diversos projetos focados em diferentes tipos de problemas que podem ser resolvidos com Machine Learning. Vou destacar três dos principais projetos:
 
-Classificação de Imagens com Redes Neurais Convolucionais (CNN)
-
-Predição de Preços de Imóveis com Regressão Linear
-
-Análise de Sentimentos em Textos com Processamento de Linguagem Natural (NLP)
 
 Cada um desses projetos utiliza diferentes técnicas e ferramentas, permitindo que eu tenha uma visão abrangente da área de Machine Learning e possa testar o desempenho de vários modelos.
