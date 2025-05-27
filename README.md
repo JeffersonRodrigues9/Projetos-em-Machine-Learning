@@ -10,3 +10,13 @@ Dentro deste repositório, existem diversos projetos focados em diferentes tipos
 
 
 Cada um desses projetos utiliza diferentes técnicas e ferramentas, permitindo que eu tenha uma visão abrangente da área de Machine Learning e possa testar o desempenho de vários modelos.
+
+#### Machine Learning 
+Projeto 01 - O objetivo deste projeto é prever a aderência de clientes a uma campanha de marketing de um banco.
+
+Projeto 02 - Neste projeto de Machine Learning, o objetivo é construir um modelo de classificação para identificar clientes inadimplentes de uma empresa de empréstimo de automóveis.
+
+Projeto 03 - O objetivo deste projeto é prever se um cliente vai manter ou cancelar sua reserva de hotel.
+
+Projeto 4 - Classificação de qualidade do leite.
+Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
