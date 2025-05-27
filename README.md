@@ -18,4 +18,4 @@ Cada um desses projetos utiliza diferentes técnicas e ferramentas, permitindo q
 ## Projeto 03 - O objetivo deste projeto é prever se um cliente vai manter ou cancelar sua reserva de hotel.
 
 ## Projeto 4 - Classificação de qualidade do leite.
-##Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
+## Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
