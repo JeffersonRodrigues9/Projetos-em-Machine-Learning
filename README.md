@@ -6,7 +6,7 @@ Este repositório no GitHub contém uma coleção de projetos realizados na áre
 
 Cada projeto aqui representa uma experiência diferente, onde fui capaz de testar diferentes algoritmos, técnicas e frameworks, sempre buscando otimizar os resultados e entender mais profundamente o funcionamento de cada abordagem.
 
-Dentro deste repositório, existem diversos projetos focados em diferentes tipos de problemas que podem ser resolvidos com Machine Learning. Vou destacar três dos principais projetos:
+Dentro deste repositório, existem diversos projetos focados em diferentes tipos de problemas que podem ser resolvidos com Machine Learning.
 
 
 Cada um desses projetos utiliza diferentes técnicas e ferramentas, permitindo que eu tenha uma visão abrangente da área de Machine Learning e possa testar o desempenho de vários modelos.
@@ -18,4 +18,4 @@ Cada um desses projetos utiliza diferentes técnicas e ferramentas, permitindo q
 ## Projeto 03 - O objetivo deste projeto é prever se um cliente vai manter ou cancelar sua reserva de hotel.
 
 ## Projeto 4 - Classificação de qualidade do leite.
-Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
+##Neste projeto, irei analisar caracteristicas de amostras de leite para identificar a qualidade e verificar se podem ser itilizados na produção dos projutos alimenticios.
